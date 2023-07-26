@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "6699AA80-EDD7-4D69-B246-618E64DA7516",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftPackages\/Content",
+        "identifier" : "ContentTests",
+        "name" : "ContentTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/untitled folder\/Networking",
+        "identifier" : "NetworkingTests",
+        "name" : "NetworkingTests"
+      }
+    }
+  ],
+  "version" : 1
+}

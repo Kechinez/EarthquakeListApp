@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="101" id="KGk-i7-Jjw" customClass="EarthquakeTableViewCell" customModule="Content">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="78"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="400" height="78"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="86B-Ra-qzB" userLabel="containerView">
+                        <rect key="frame" x="8" y="6" width="384" height="66"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="14.07.2007 15:40" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Yc-hN-fgD">
+                                <rect key="frame" x="10" y="5" width="151" height="56"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <color key="textColor" red="0.12941176469999999" green="0.1449999958" blue="0.16099999849999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact">
+                                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" type="system" pointSize="27"/>
+                                </variation>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Source: United States" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8uF-JI-l4Q">
+                                <rect key="frame" x="10" y="23.333333333333329" width="141" height="19.333333333333343"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact">
+                                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                </variation>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RxL-D4-8kP" userLabel="magnitudeContainerView">
+                                <rect key="frame" x="308" y="0.0" width="66" height="66"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="6" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VX4-3w-TIM">
+                                        <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="33"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <variation key="heightClass=compact">
+                                            <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                        </variation>
+                                        <variation key="heightClass=regular-widthClass=regular">
+                                            <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                        </variation>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="VX4-3w-TIM" firstAttribute="top" secondItem="RxL-D4-8kP" secondAttribute="top" id="BV1-qC-fmu"/>
+                                    <constraint firstAttribute="width" secondItem="RxL-D4-8kP" secondAttribute="height" multiplier="1:1" id="JYH-2l-MAr"/>
+                                    <constraint firstAttribute="trailing" secondItem="VX4-3w-TIM" secondAttribute="trailing" id="dEr-HH-xXt"/>
+                                    <constraint firstItem="VX4-3w-TIM" firstAttribute="leading" secondItem="RxL-D4-8kP" secondAttribute="leading" id="ehv-is-QVS"/>
+                                    <constraint firstAttribute="bottom" secondItem="VX4-3w-TIM" secondAttribute="bottom" id="hgg-nw-0Kr"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="RxL-D4-8kP" firstAttribute="top" secondItem="86B-Ra-qzB" secondAttribute="top" id="30R-kz-2yD"/>
+                            <constraint firstItem="RxL-D4-8kP" firstAttribute="height" secondItem="86B-Ra-qzB" secondAttribute="height" id="8g6-fI-qG2"/>
+                            <constraint firstItem="9Yc-hN-fgD" firstAttribute="top" secondItem="86B-Ra-qzB" secondAttribute="top" constant="5" id="9P0-8O-bQb"/>
+                            <constraint firstAttribute="bottom" secondItem="8uF-JI-l4Q" secondAttribute="bottom" constant="5" id="Eys-Wd-JgU"/>
+                            <constraint firstItem="8uF-JI-l4Q" firstAttribute="top" secondItem="9Yc-hN-fgD" secondAttribute="bottom" constant="5" id="FD1-8J-K3d"/>
+                            <constraint firstItem="8uF-JI-l4Q" firstAttribute="leading" secondItem="9Yc-hN-fgD" secondAttribute="leading" id="GHR-SH-1mo"/>
+                            <constraint firstItem="9Yc-hN-fgD" firstAttribute="leading" secondItem="86B-Ra-qzB" secondAttribute="leading" constant="10" id="ISi-lY-LLb"/>
+                            <constraint firstAttribute="trailing" secondItem="RxL-D4-8kP" secondAttribute="trailing" constant="10" id="KE7-0h-KeE"/>
+                            <constraint firstItem="RxL-D4-8kP" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="8uF-JI-l4Q" secondAttribute="trailing" constant="20" id="cYB-DQ-2Xr"/>
+                            <constraint firstItem="RxL-D4-8kP" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="9Yc-hN-fgD" secondAttribute="trailing" constant="20" id="vp8-6D-hc0"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="86B-Ra-qzB" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="6" id="A1z-AE-YkN"/>
+                    <constraint firstItem="86B-Ra-qzB" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="I4Z-08-qJD">
+                        <variation key="heightClass=compact" constant="18"/>
+                        <variation key="heightClass=regular-widthClass=regular" constant="25"/>
+                    </constraint>
+                    <constraint firstAttribute="trailing" secondItem="86B-Ra-qzB" secondAttribute="trailing" constant="8" id="Rol-P5-4Ly">
+                        <variation key="heightClass=compact" constant="18"/>
+                        <variation key="heightClass=regular-widthClass=regular" constant="25"/>
+                    </constraint>
+                    <constraint firstAttribute="bottom" secondItem="86B-Ra-qzB" secondAttribute="bottom" constant="6" id="jht-WR-fiX"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="containerView" destination="86B-Ra-qzB" id="ZwM-yO-kw2"/>
+                <outlet property="dateLabel" destination="9Yc-hN-fgD" id="60R-i4-jsh"/>
+                <outlet property="magnitudeContainerView" destination="RxL-D4-8kP" id="nbs-E6-YKr"/>
+                <outlet property="magnitudeLabel" destination="VX4-3w-TIM" id="Z7P-1n-gQ3"/>
+                <outlet property="sourceLabel" destination="8uF-JI-l4Q" id="Zpg-Q0-AES"/>
+            </connections>
+            <point key="canvasLocation" x="352.67175572519085" y="30.985915492957748"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

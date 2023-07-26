@@ -1,0 +1,8 @@
+{
+  "magnitudeChartInfo": "A given earthquake on ",
+  "detailsTitle": "Earthquake details",
+  "listTitle": "Earthquakes list",
+  "networkErrorTitle": "Network error occured.",
+  "networkErrorButtonTitle": "Retry",
+  "earthquakeSource": "Source: "
+}

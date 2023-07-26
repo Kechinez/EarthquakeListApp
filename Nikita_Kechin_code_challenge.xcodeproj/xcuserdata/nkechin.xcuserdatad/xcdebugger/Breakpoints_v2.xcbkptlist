@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D0BC5B03-FE38-4815-8C99-A99CAA7FFFB3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../untitled folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - ce94994f53d26c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - ce94994f53d26c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "474">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 885a5aa488712c11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "793">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 885a5aa488712c11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "810">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 353ae510d4208c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 353ae510d4208c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - ce94994f53d26d3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "666">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - ce94994f53d26d3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "686">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 885a5aa488712d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "833">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 885a5aa488712d38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "850">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 353ae510d4208d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 353ae510d4208d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 7f984cbb1863b8ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "666">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 7f984cbb1863b8ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "686">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 39568f50c3c0f8eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "833">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 39568f50c3c0f8eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "850">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 843630e49f9158ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "E42706FD-8A49-4231-B49E-ABBCA94212BE - 843630e49f9158ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Networking.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Networking.Endpoint&lt;&#x3c4;_0_0&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "ContentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/untitled%20folder/Networking/Sources/Networking/NetworkService/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE45D7E-B806-4B28-B396-FFE802B7AA49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Content/Sources/Content/EarthquakesList/ViewModels/EarthquakesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44FDA385-130F-4022-A467-5B66E1D3942C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Content/Sources/Content/EarthquakeDetails/Views/MapCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setContent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18BBB3CD-AC24-4F42-8623-CF6E423DAB82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Content/Sources/Content/EarthquakeDetails/ViewModels/MapCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init?(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0EAF78B-CF0A-4443-8F68-6CBD87758BB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Localization/Sources/Localization/Localization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEFEFA2F-3D84-40CE-A340-1BBD78AEA020"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Localization/Sources/Localization/Localization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadData(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEFEFA2F-3D84-40CE-A340-1BBD78AEA020 - dc785016873a18f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.loadData(from: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "LocalizationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CEFEFA2F-3D84-40CE-A340-1BBD78AEA020 - dc785016873a18f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.loadData(from: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "LocalizationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "CEFEFA2F-3D84-40CE-A340-1BBD78AEA020 - 4b05ee13a0408d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.loadData(from: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CEFEFA2F-3D84-40CE-A340-1BBD78AEA020 - 4b05ee13a0408d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.loadData(from: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98C887CC-4857-45D3-9627-A138D3B15427"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Localization/Sources/Localization/Localization.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "value(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98C887CC-4857-45D3-9627-A138D3B15427 - 97f7df5314afe8bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.value(for: Swift.String) -&gt; Swift.String"
+                  moduleName = "LocalizationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "98C887CC-4857-45D3-9627-A138D3B15427 - 97f7df5314afe8bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.value(for: Swift.String) -&gt; Swift.String"
+                  moduleName = "LocalizationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "287">
+               </Location>
+               <Location
+                  uuid = "98C887CC-4857-45D3-9627-A138D3B15427 - 4f3fd1a4a991f898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.value(for: Swift.String) -&gt; Swift.String"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "98C887CC-4857-45D3-9627-A138D3B15427 - 4f3fd1a4a991f898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Localization.Localization.value(for: Swift.String) -&gt; Swift.String"
+                  moduleName = "Nikita_Kechin_code_challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkechin/Documents/My%20Projects/Nikita_Kechin_code_challenge/SwiftPackages/Localization/Sources/Localization/Localization.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "287">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9CF6660-7AC1-4427-A475-F37BC78AB4DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Localization/Tests/LocalizationTests/LocalizationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "testLoadingLocalization()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDE52179-9C5A-4E3D-B5F3-6E1159D6A629"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Content/Tests/ContentTests/EarthquakeCellViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "testProperties()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0668076-A5FC-4C07-858D-2241A85DA564"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackages/Content/Sources/Content/EarthquakesList/ViewModels/EarthquakeCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "date"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
