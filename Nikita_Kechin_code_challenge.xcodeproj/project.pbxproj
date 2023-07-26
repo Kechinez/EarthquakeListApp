@@ -13,7 +13,6 @@
 		7EC4CC1F2A6C01DD00002635 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EC4CC1D2A6C01DD00002635 /* LaunchScreen.storyboard */; };
 		7EC4CC472A6C3C7200002635 /* Content in Frameworks */ = {isa = PBXBuildFile; productRef = 7EC4CC462A6C3C7200002635 /* Content */; };
 		7EC4CC492A6C3CB000002635 /* DataModels in Frameworks */ = {isa = PBXBuildFile; productRef = 7EC4CC482A6C3CB000002635 /* DataModels */; };
-		7EC4CC4B2A6C3CB300002635 /* Networking in Frameworks */ = {isa = PBXBuildFile; productRef = 7EC4CC4A2A6C3CB300002635 /* Networking */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7E1B38B12A71E6E7005B9134 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Networking; path = SwiftPackages/Networking; sourceTree = "<group>"; };
 		7EC4CC0F2A6C01DB00002635 /* Nikita_Kechin_code_challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nikita_Kechin_code_challenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EC4CC122A6C01DB00002635 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EC4CC142A6C01DB00002635 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -35,7 +35,6 @@
 		7EC4CC202A6C01DD00002635 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EC4CC422A6C3C1400002635 /* DataModels */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = DataModels; path = SwiftPackages/DataModels; sourceTree = "<group>"; };
 		7EC4CC432A6C3C2F00002635 /* Content */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Content; path = SwiftPackages/Content; sourceTree = "<group>"; };
-		7EC4CC442A6C3C4400002635 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Networking; path = "../untitled folder/Networking"; sourceTree = "<group>"; };
 		7EC4CC452A6C3C5600002635 /* Utils */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Utils; path = SwiftPackages/Utils; sourceTree = "<group>"; };
 		7ECBF94A2A71876000601AE3 /* Nikita_Kechin_code_challenge.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = Nikita_Kechin_code_challenge.xctestplan; sourceTree = "<group>"; };
 		7ECBF94F2A71885400601AE3 /* Nikita_Kechin_code_challengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Nikita_Kechin_code_challengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,7 +47,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EC4CC4B2A6C3CB300002635 /* Networking in Frameworks */,
 				7EC4CC492A6C3CB000002635 /* DataModels in Frameworks */,
 				7EC4CC472A6C3C7200002635 /* Content in Frameworks */,
 			);
@@ -105,9 +103,9 @@
 		7EC4CC412A6C3C1400002635 /* Packages */ = {
 			isa = PBXGroup;
 			children = (
+				7E1B38B12A71E6E7005B9134 /* Networking */,
 				7EC4CC422A6C3C1400002635 /* DataModels */,
 				7EC4CC432A6C3C2F00002635 /* Content */,
-				7EC4CC442A6C3C4400002635 /* Networking */,
 				7EC4CC452A6C3C5600002635 /* Utils */,
 				7EFBCA852A6F2B7E002D27DB /* Design */,
 				7EFBCA872A6F396C002D27DB /* Localization */,
@@ -143,7 +141,6 @@
 			packageProductDependencies = (
 				7EC4CC462A6C3C7200002635 /* Content */,
 				7EC4CC482A6C3CB000002635 /* DataModels */,
-				7EC4CC4A2A6C3CB300002635 /* Networking */,
 			);
 			productName = Nikita_Kechin_code_challenge;
 			productReference = 7EC4CC0F2A6C01DB00002635 /* Nikita_Kechin_code_challenge.app */;
@@ -517,10 +514,6 @@
 		7EC4CC482A6C3CB000002635 /* DataModels */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = DataModels;
-		};
-		7EC4CC4A2A6C3CB300002635 /* Networking */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Networking;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

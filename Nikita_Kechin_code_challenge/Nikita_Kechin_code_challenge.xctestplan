@@ -21,7 +21,7 @@
     },
     {
       "target" : {
-        "containerPath" : "container:..\/untitled folder\/Networking",
+        "containerPath" : "container:SwiftPackages\/Networking",
         "identifier" : "NetworkingTests",
         "name" : "NetworkingTests"
       }

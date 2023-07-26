@@ -1,13 +1,14 @@
 import Foundation
 
-public class Endpoint<ResponseValue> {
-    /// The endpoint path.
+/// Endpoint object
+public struct Endpoint<ResponseValue> {
+    /// Endpoint path
     public let path: String
     
-    /// The HTTP method for this endpoint.
+    /// HTTP method for this endpoint
     public let method: HTTPMethod
     
-    /// The request parameters.
+    /// The request parameters
     public let parameters: Parameters?
 
     public init(
